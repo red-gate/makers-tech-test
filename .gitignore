@@ -1,0 +1,7 @@
+# User-specific files
+*.suo
+*.user
+
+# Build results
+bin/
+obj/
